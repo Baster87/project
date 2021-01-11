@@ -38,4 +38,4 @@ let ask4 = prompt('На сколько оцените его?');
 personalMovieDB.movies[ask1] = ask2;
 personalMovieDB.movies[ask3] = ask4;
 console.log(personalMovieDB);
-ggg
+
